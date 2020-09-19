@@ -1,0 +1,18 @@
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 450px;
+  background-size: cover;
+}
+
+
+.banner p {
+  opacity: 0.7;
+  font-size: 1em;
+}
+
+.banner h1 {
+  font-size: 2em;
+}
